@@ -1,3 +1,10 @@
+/* EU FIQUEI COMPLETAMENTE PERDIDO NESTE LAB. 
+TENTEI LER, TENTEI REVISAR DE ONTEM, TENTEI PESQUISAR NA INTERNET. 
+ESCREVI E APAGUEI MUITAS VEZES, POIS NÃO DAVA CERTO.
+E NÃO HAVIA MAIS HORÁRIO PRA MARCAR UMA AJUDA INDIVIDUAL */
+
+
+
 /*
 background purple: #540B51
 background ivory: #F3EAE2
@@ -8,3 +15,14 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 20px;
+    height: 1px;
+}
